@@ -1,7 +1,10 @@
-// document.getElementById("count-el").innerHTML = 5;
+// document.getElementById("count").innerHTML = 5;
 
-let count = 0
-console.log(count)
+let firstBatch = 5;
 
-let myAge = 24
-console.log(myAge)
+let secondBatch = 7;
+
+let count = firstBatch + secondBatch;
+
+console.log(count);
+
